@@ -4,7 +4,7 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Criação de jogos em grupo através do IndieDi! :)
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://muvucagames.github.io" # the base hostname & protocol for your site
+url: "http://muvucagamestest.github.io" # the base hostname & protocol for your site
 twitter_username: diogomrg
 github_username:  muvucagames
 
